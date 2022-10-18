@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666083529 source:c:\users\student\documents\210911104\lab 7\double-ended-queues\main.cpp
+	<iostream>
+	<string.h>
+

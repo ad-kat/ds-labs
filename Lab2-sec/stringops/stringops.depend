@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662439143 source:c:\users\student\documents\210911104\lab 2\stringops\main.cpp
+	<iostream>
+	<string.h>
+
