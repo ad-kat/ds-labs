@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665209435 source:d:\cpp adri\fast\main.cpp
+	<iostream>
+	<string.h>
+
