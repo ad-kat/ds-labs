@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666064379 source:c:\users\student\documents\210911104\lab 6\pretopos\main.cpp
+	<iostream>
+	<string.h>
+
